@@ -28,10 +28,6 @@ test:
     - pyisemail
     - pyisemail.diagnosis
     - pyisemail.validators
-  requires:
-    - coverage
-    - testscenarios >=0.3
-    - testtools >=0.9.21
 
 about:
   home: https://github.com/michaelherold/pyIsEmail
